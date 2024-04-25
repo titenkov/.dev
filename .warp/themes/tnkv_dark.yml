@@ -1,0 +1,23 @@
+accent: '#b581d9'      # Close to Pantone 2577 C
+background: '#282a33'
+details: darker
+foreground: '#f0f0f0'  # Close to Pantone Cool Gray 1 C
+terminal_colors:
+  bright:
+    black: '#575757'   # Close to Pantone Black 7 C
+    blue: '#7a6fb8'    # Close to Pantone 270 C
+    cyan: '#63d8e6'    # Close to Pantone 306 C
+    green: '#63d999'   # Close to Pantone 7488 C
+    magenta: '#ea7eb3' # Close to Pantone 205 C
+    red: '#ff6d6d'     # Close to Pantone 178 C
+    white: '#ffffff'
+    yellow: '#fcf384'  # Close to Pantone 609 C
+  normal:
+  black: '#000000'
+  blue: '#ac81ff'      # Close to Pantone 2655 C
+  cyan: '#5edcff'      # Close to Pantone 298 C
+  green: '#63d999'     # Close to Pantone 7488 C
+  magenta: '#ea7eb3'   # Close to Pantone 205 C
+  red: '#ff6d6d'       # Close to Pantone 178 C
+  white: '#cccccc'     # Close to Pantone Cool Gray 5 C
+  yellow: '#fcf384'    # Close to Pantone 609 C

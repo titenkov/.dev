@@ -1,0 +1,10 @@
+[user]
+        email = pavel@titenkov.com
+        name = titenkov
+        signingkey = /Users/titenkov/.ssh/id_ed25519.pub
+[core]
+        pager = diff-so-fancy | less --tabs=4 -RFX
+[commit]
+        gpgsign = true
+[gpg]
+        format = ssh
