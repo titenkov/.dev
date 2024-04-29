@@ -35,6 +35,13 @@ brew install \
   font-hack-nerd-font \
   n \
   z \
+  jq \
+  kubectl \
+  kubectx \
+  helm \
+  fluxcd/tap/flux \
+  k9s \
+  azure-cli \
   commitizen \
   diff-so-fancy \
   sops \
