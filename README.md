@@ -38,6 +38,7 @@ brew install \
   jq \
   kubectl \
   kubectx \
+  kind \
   helm \
   fluxcd/tap/flux \
   k9s \
