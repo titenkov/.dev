@@ -38,6 +38,7 @@ brew install \
   exa \
   tree \
   httpie \
+  neovim \
   ngrok \
   jq \
   kubectl \
