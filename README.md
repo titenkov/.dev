@@ -35,6 +35,10 @@ brew install \
   font-hack-nerd-font \
   n \
   z \
+  exa \
+  tree \
+  httpie \
+  ngrok \
   jq \
   kubectl \
   kubectx \
