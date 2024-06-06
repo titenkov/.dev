@@ -54,7 +54,9 @@ brew install \
   gpg \
   mkcert \
   pyenv \
-  ollama
+  ollama \
+  stern \
+  openconnect
 ```
 
 ### Terminal
