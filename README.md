@@ -56,7 +56,10 @@ brew install \
   pyenv \
   ollama \
   stern \
-  openconnect
+  openconnect \
+  act \
+  watch \
+  ansible
 ```
 
 ### Terminal
